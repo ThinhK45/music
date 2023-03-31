@@ -40,7 +40,7 @@ const app = {
       name: "Thay Lòng",
       singer: "Nal x TVK",
       path: "https://ve63.aadika.xyz/download/zeV_fQ1bMRA/mp3/320/1646020669/5db5f4417301d03d558a66aeef4cbb44643dc8ee353b6421e77abc854061d836/1?f=X2Convert.cc",
-      image: "https://i.ytimg.com/vi/kWVdqd5S6I0/maxresdefault.jpg",
+      image: "https://avatar-ex-swe.nixcdn.com/song/2022/04/29/e/9/a/5/1651203647353_640.jpg",
     },
     {
       name: "CÔ ĐƠN DÀNH CHO AI",
